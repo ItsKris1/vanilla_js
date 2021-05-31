@@ -15,3 +15,7 @@ Image: https://imgur.com/a/s6xJULm
 - Smooth scrolling, when redirecting through navbar links, the links sections will appear at the right position
 <br>
 Image: https://imgur.com/a/zNVT6G3
+
+### Grocery bud
+Take it as a shopping cart - you can add, delete and edit items. Project uses localStorage API for saving data.<br>
+Image: https://imgur.com/a/iJWc8Np
