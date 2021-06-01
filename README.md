@@ -18,4 +18,4 @@ Image: https://imgur.com/a/zNVT6G3
 
 ### Grocery bud
 Take it as a shopping cart - you can add, delete and edit items. Project uses localStorage API for saving data.<br>
-Image: https://imgur.com/a/iJWc8Np
+Live URL: https://vanilla-js-eta.vercel.app/
